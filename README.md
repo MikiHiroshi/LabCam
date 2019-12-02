@@ -1,5 +1,5 @@
 # LabCam
-These codes(boot.py, FromM5StickV_UART_M5stickC_LINEnotify.ino) are written for LabCam. 
+These codes(boot.py, FromM5StickV_UART_M5stickC_LINEnotify.ino) are written for LabCam https://camp-fire.jp/projects/211754/preview?token=1fi4q7fr. 
 
 The code in "boot.py" is based on Maker Faire Taipei 2019 Kit in ksasao/brownie.
 https://github.com/ksasao/brownie/releases
