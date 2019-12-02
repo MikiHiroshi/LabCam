@@ -1,3 +1,5 @@
+//special thanks to ano研 @nnn112358 https://qiita.com/nnn112358/items/5efd926fea20cd6c2c43
+
 #include <M5StickC.h>
 #include <WiFi.h>
 #include <ssl_client.h>
@@ -96,5 +98,4 @@ void send(String message) {
   Serial.println(line);
 }
 
-//special thanks to @nnn112358 https://qiita.com/nnn112358/items/5efd926fea20cd6c2c43
 
